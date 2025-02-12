@@ -13,4 +13,4 @@
 
 I chose to use the dictionary data structure in Python
 
-The code s contained in the `leucine_gp_task1.py` file.
+The code is contained in the `leucine_gp_task1.py` file.
