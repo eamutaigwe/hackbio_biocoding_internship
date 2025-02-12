@@ -20,7 +20,6 @@ leucine_group_dict = {
           "Preferred programming language": "Python"
     }
 }
-
 print("Leucine Group Information")
 
 print("\n")
