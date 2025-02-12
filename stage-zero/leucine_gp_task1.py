@@ -21,10 +21,11 @@ leucine_group_dict = {
     }
 }
 
-print("LEUCINE GROUP TEAMMATES' INFORMATION")
+print("Leucine Group Information")
+
 print("\n")
       
-print("First Member:")
+print("Member 1:")
 print("Full Name:", leucine_group_dict["Uzo"]["Full Name"])
 print("Slack Username:", leucine_group_dict["Uzo"]["Slack Username"])
 print("Email Address:", leucine_group_dict["Uzo"]["Email Address"])
