@@ -15,4 +15,4 @@ I chose to use the dictionary data structure in Python
 
 The code is contained in the `leucine_gp_task1.py` file.
 
-<img width="950" alt="Screenshot 2025-02-12 at 4 22 29 AM" src="https://github.com/user-attachments/assets/3638a47b-03bb-4ac9-9545-4ad29fbd985b" />
+<img width="300" alt="Screenshot 2025-02-12 at 4 29 07 AM" src="https://github.com/user-attachments/assets/937adf45-a33d-4562-9ce6-9aea0371135c" />
